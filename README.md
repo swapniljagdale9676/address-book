@@ -53,9 +53,9 @@ make clean
 
 Run the executable:
 
-./AddressBook
+./AddressBook.exe
 
-(Replace `AddressBook` with your executable name if different.)
+(Replace `AddressBook.exe` with your executable name if different.)
 
 ## 🖥 Sample Output
 
