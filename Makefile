@@ -1,5 +1,5 @@
 AddressBook.exe:main.o contact.o file.o
-	gcc -o Address.exe main.o contact.o file.o
+	gcc -o AddressBook.exe main.o contact.o file.o
 main.o: main.c
 	gcc -c main.c
 contact.o:contact.c
